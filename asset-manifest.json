@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Word-Beater/static/css/main.bf518b69.css",
+    "main.js": "/Word-Beater/static/js/main.1a5ae359.js",
+    "index.html": "/Word-Beater/index.html",
+    "main.bf518b69.css.map": "/Word-Beater/static/css/main.bf518b69.css.map",
+    "main.1a5ae359.js.map": "/Word-Beater/static/js/main.1a5ae359.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf518b69.css",
+    "static/js/main.1a5ae359.js"
+  ]
+}
